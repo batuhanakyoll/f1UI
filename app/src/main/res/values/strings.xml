@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">F1Cars</string>
+    <string name="formula_1">Formula 1</string>
+    <string name="f1_takimler_sampiyoni">F1 Takımlar Şampiyonu</string>
+    <string name="ferrari">Ferrari</string>
+    <string name="Redbull">Redbull</string>
+    <string name="Haas">Haas</string>
+    <string name="aston">Aston</string>
+    <string name="haberler">Haberler</string>
+    <string name="f1_magaza">F1 Mağaza</string>
+    <string name="yayin_akisi">Yayın Akışı</string>
+    <string name="hakkında">Hakkında</string>
+    <string name="soz">Amacım her zaman diğer sürücülerin bıraktığı izlerden hemen sonra fren yapmaktır -Micheal Schumacher</string>
+    <string name="canlı_yayın">Canlı Yayın</string>
+    <string name="uye_ol">Üye Ol</string>
+    <string name="giris_yap">Giriş yap</string>
+</resources>
